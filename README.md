@@ -34,8 +34,6 @@ AWS S3 Bucket
 
 ## Screenshots
 
-Create an `images/` folder in your repository and add your screenshots there.
-
 ### MLflow Experiments Page
 
 ![MLflow Experiments Page](assets/mlflow_server.png)
